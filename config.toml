@@ -1,7 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://vbamadeeasy.com/"
+baseURL = "https://apwacencal.com/"
 languageCode = "en-us"
-#title = "DenverNoell.com"
 title = "James Martin Photos"
 theme = "liva-hugo"
 summaryLength = "10"
@@ -51,12 +50,12 @@ disqusShortname = ""
   weight = 1
 
   [[menu.main]]
-  name = "Articles"
+  name = "Photos"
   URL = "blog"
   weight = 2
 
   [[menu.main]]
-  name = "Contact"
+  name = "About Jim Martin"
   URL = "contact"
   weight = 0
 
@@ -80,20 +79,20 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 #logo = "images/computer.svg"
-logo = "images/computerside.png"
+logo = "img/camera.svg"
 home = "Home"
 
 # Meta data
-description = "How to get started using VBA"
+description = "Life through the lens of Jim Martin"
 author = "Denver Noell"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
-mobile = "5597312221"
-email = "denvernoell@gmail.com"
+mobile = ""
+email = "dnoell@akeleng.com"
 location = "Visalia, California"
 # copyright
-copyright = "copyright &copy; 2020 [Denver Noell](https://denvernoell.github.io/primary) All Rights Reserved | Design by ThemeFisher | logos by tinyicon | photos by unsplash"
+copyright = "copyright &copy; Life through the lens of Jim Martin. 2020 All Rights Reserved | Design by ThemeFisher | logos by tinyicon "
 
 
   # Preloader
