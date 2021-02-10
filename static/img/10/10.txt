@@ -1,0 +1,60 @@
+<article>
+	<a class="thumbnail" href="images/fulls/10/01.JPG" data-position="left center">
+	<img src="images/thumbs/10/2.111 Old Pw Hwy Supt Rig 14-01.JPG" alt="" /></a> <h2>2.111 Old Pw Hwy Supt Rig 14-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/02.JPG" data-position="left center">
+	<img src="images/thumbs/10/2.241 Old Public Works Home Drive Oil Tank 14-01.JPG" alt="" /></a> <h2>2.241 Old Public Works Home Drive Oil Tank 14-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/03.JPG" data-position="left center">
+	<img src="images/thumbs/10/2.821 Drilling Rig Fresno 12-01.JPG" alt="" /></a> <h2>2.821 Drilling Rig Fresno 12-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/04.JPG" data-position="left center">
+	<img src="images/thumbs/10/2.821 Tomer Road Oiler Us 99 Madera 12-01.JPG" alt="" /></a> <h2>2.821 Tomer Road Oiler Us 99 Madera 12-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/05.JPG" data-position="left center">
+	<img src="images/thumbs/10/8.701 Old Public Works Elgin Sweeper 14-01.JPG" alt="" /></a> <h2>8.701 Old Public Works Elgin Sweeper 14-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/06.JPG" data-position="left center">
+	<img src="images/thumbs/10/8.701 Old Public Works Leaf Broom 14-01.JPG" alt="" /></a> <h2>8.701 Old Public Works Leaf Broom 14-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/07.JPG" data-position="left center">
+	<img src="images/thumbs/10/8.701 Old Public Works Litter Carts 14-01.JPG" alt="" /></a> <h2>8.701 Old Public Works Litter Carts 14-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/08.JPG" data-position="left center">
+	<img src="images/thumbs/10/8.701 Old Public Works Street Sprinkler 14-01.JPG" alt="" /></a> <h2>8.701 Old Public Works Street Sprinkler 14-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/09.JPG" data-position="left center">
+	<img src="images/thumbs/10/8.701 Old Public Works Water Sprinkler Horse Drawn 14-01.JPG" alt="" /></a> <h2>8.701 Old Public Works Water Sprinkler Horse Drawn 14-01</h2>
+	<p></p>
+</article>
+
+<article>
+	<a class="thumbnail" href="images/fulls/10/10.JPG" data-position="left center">
+	<img src="images/thumbs/10/8.701 Public Works Early Sweeper 14-01.JPG" alt="" /></a> <h2>8.701 Public Works Early Sweeper 14-01</h2>
+	<p></p>
+</article>
+
