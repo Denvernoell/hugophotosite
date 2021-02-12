@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on James Martin Photos</title>
+    <link>https://apwacencal.com/tags/</link>
+    <description>Recent content in Tags on James Martin Photos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Dec 2020 10:40:29 -0800</lastBuildDate>
+    
+	<atom:link href="https://apwacencal.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>https://apwacencal.com/tags/article/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
+      
+      <guid>https://apwacencal.com/tags/article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

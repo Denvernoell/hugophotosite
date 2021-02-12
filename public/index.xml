@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Martin Photos</title>
+    <link>https://apwacencal.com/</link>
+    <description>Recent content on James Martin Photos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Dec 2020 10:40:29 -0800</lastBuildDate>
+    
+	<atom:link href="https://apwacencal.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1920s</title>
+      <link>https://apwacencal.com/blog/1920s/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
+      
+      <guid>https://apwacencal.com/blog/1920s/</guid>
+      <description>Photos from throughout the 1920s 1.261Feather R Tramway PG&amp;amp;E22-01.</description>
+    </item>
+    
+    <item>
+      <title>1910s</title>
+      <link>https://apwacencal.com/blog/1910s/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:14 -0800</pubDate>
+      
+      <guid>https://apwacencal.com/blog/1910s/</guid>
+      <description>Photos from throughout the 1910s 2.111 Old Pw Hwy Supt Rig 14-01.</description>
+    </item>
+    
+  </channel>
+</rss>

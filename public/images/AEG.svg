@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="AEG.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="3269"
+     inkscape:window-height="806"
+     inkscape:window-width="1600"
+     showborder="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="482.24681"
+     inkscape:cx="1021.8221"
+     inkscape:zoom="0.1767767"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       transform="scale(0.26458333)"
+       d="M -509.76953 157.29688 L -730.5332 730.0332 L -617.23047 730.0332 L -570.50977 612.06055 L -336.89844 612.06055 L -292.12109 730.0332 L -178.82031 730.0332 L -399.19336 157.29688 L -509.76953 157.29688 z M -93.164062 157.29688 L -93.164062 730.0332 L 17.023438 730.0332 L 17.023438 475.78711 L 193.78906 730.0332 L 323.05469 730.0332 L 103.45898 412.71289 L 303.58594 157.29688 L 172.375 157.29688 L 17.023438 354.30859 L 17.023438 157.29688 L -93.164062 157.29688 z M 401.70312 157.29688 L 401.70312 730.0332 L 714.35352 730.0332 L 714.35352 622.96289 L 509.94336 622.96289 L 509.94336 472.2832 L 714.35352 472.2832 L 714.35352 367.54688 L 509.94336 367.54688 L 509.94336 263.97852 L 714.35352 263.97852 L 714.35352 157.29688 L 401.70312 157.29688 z M 815.58594 157.29688 L 815.58594 730.0332 L 1083.459 730.0332 L 1083.459 626.07617 L 924.60352 626.07617 L 924.60352 157.29688 L 815.58594 157.29688 z M -453.70312 309.14453 L -377.7793 505.76758 L -530.01562 505.76758 L -453.70312 309.14453 z "
+       style="font-weight:bold;font-size:210.977px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';opacity:0.99999999;stroke-width:5.08331;fill:#0000ff"
+       id="path841" />
+    <text
+       id="text839"
+       y="122.46429"
+       x="-5.2916665"
+       style="font-weight:bold;font-size:41.5039px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.264583"
+         y="122.46429"
+         x="-5.2916665"
+         id="tspan837"
+         sodipodi:role="line" /></text>
+    <path
+       id="path894"
+       transform="scale(0.26458333)"
+       d="M 401.70312,545.89258 V 730.0332 h 312.6504 V 622.96289 H 509.94336 v -68.19336 c -36.04423,-1.90012 -72.12534,-4.95625 -108.24024,-8.87695 z"
+       style="font-weight:bold;font-size:210.977px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';opacity:0.87;stroke-width:10.00000015;fill:#00ffff;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path892"
+       transform="scale(0.26458333)"
+       d="m 924.60352,508.5293 c -36.29296,11.53358 -72.63233,20.69728 -109.01758,27.82226 V 730.0332 H 1083.459 V 626.07617 H 924.60352 Z"
+       style="font-weight:bold;font-size:210.977px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';opacity:0.87;stroke-width:10.00000015;fill:#00ffff;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path890"
+       transform="scale(0.26458333)"
+       d="M 24.154297,486.04297 193.78906,730.0332 H 323.05469 L 172.32812,512.23047 c -12.25764,-2.11805 -24.51707,-4.25329 -36.78124,-6.41602 C 98.445141,499.27174 61.313028,492.57749 24.154297,486.04297 Z"
+       style="font-weight:bold;font-size:210.977px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';opacity:0.87;stroke-width:10.00000015;fill:#00ffff;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path888"
+       transform="scale(0.26458333)"
+       d="M -93.164062,466.34375 V 730.0332 h 110.1875 V 484.79688 c -36.703304,-6.43227 -73.433463,-12.67512 -110.1875,-18.45313 z"
+       style="font-weight:bold;font-size:210.977px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';opacity:0.87;stroke-width:10.00000015;fill:#00ffff;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path886"
+       transform="scale(0.26458333)"
+       d="m -404.86914,435.61328 27.08984,70.1543 h -152.23632 l 26.61718,-68.58008 c -39.62488,2.0717 -79.26727,5.98492 -118.92578,12.11523 L -730.5332,730.0332 h 113.30273 l 46.7207,-117.97265 h 233.61133 l 44.77735,117.97265 h 113.30078 l -110.9375,-288.32226 c -38.34901,-3.24676 -76.72112,-5.39264 -115.11133,-6.09766 z"
+       style="font-weight:bold;font-size:210.977px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';opacity:0.87;stroke-width:10.00000015;fill:#00ffff;stroke-miterlimit:4;stroke-dasharray:none" />
+    <ellipse
+       transform="matrix(-0.99994348,-0.01063188,-0.01865027,-0.99982607,0,0)"
+       ry="261.68747"
+       rx="275.50638"
+       cy="-160.9359"
+       cx="-45.782494"
+       id="path896"
+       style="opacity:0.87;fill:none;stroke-width:4.29218;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text900"
+       style="font-weight:bold;font-size:81.3348px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';stroke-width:0.518501;fill:#000080;"
+       xml:space="preserve"><textPath
+         id="textPath902"
+         xlink:href="#path896"><tspan
+           id="tspan898"
+           style="stroke-width:0.518501;fill:#000080;">ENGINEERING GROUP</tspan></textPath></text>
+  </g>
+</svg>
