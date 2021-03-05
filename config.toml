@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 #baseURL = "https://apwacencal.com/"
-baseURL = "http://jimmartin.netlify.app"
+baseURL = "//jimmartin.netlify.app"
+#baseURL = "/"
 languageCode = "en-us"
 title = "James Martin Photos"
 theme = "liva-hugo"

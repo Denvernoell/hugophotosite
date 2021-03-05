@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on James Martin Photos</title>
-    <link>http://jimmartin.netlify.app/categories/</link>
+    <link>//jimmartin.netlify.app/categories/</link>
     <description>Recent content in Categories on James Martin Photos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Dec 2020 10:40:29 -0800</lastBuildDate>
     
-	<atom:link href="http://jimmartin.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//jimmartin.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photos</title>
-      <link>http://jimmartin.netlify.app/categories/photos/</link>
+      <link>//jimmartin.netlify.app/categories/photos/</link>
       <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
       
-      <guid>http://jimmartin.netlify.app/categories/photos/</guid>
+      <guid>//jimmartin.netlify.app/categories/photos/</guid>
       <description></description>
     </item>
     
