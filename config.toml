@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://apwacencal.com/"
-#baseURL = "http://localhost:1313/"
+#baseURL = "https://apwacencal.com/"
+baseURL = "http://jimmartin.netlify.app"
 languageCode = "en-us"
 title = "James Martin Photos"
 theme = "liva-hugo"
@@ -107,9 +107,9 @@ copyright = "copyright &copy; Life through the lens of Jim Martin. 2020 All Righ
 
 ############################ news letter ########################
 [params.newsletter]
-enable = true
+enable = false
 title = "Contact Me"
-content = "Let me know what you think"
+content = "Comments and suggestions are welcome!"
 
 
 # cookies
@@ -134,12 +134,12 @@ expire_days = 30
 #icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 #link = "#"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "github"
+#icon = "ti-github" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#title = "linkedin"
+#icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+#link = "#"
