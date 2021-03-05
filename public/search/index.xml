@@ -2,10 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Result on James Martin Photos</title>
-    <link>https://apwacencal.com/search/</link>
+    <link>http://jimmartin.netlify.app/search/</link>
     <description>Recent content in Search Result on James Martin Photos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://apwacencal.com/search/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="http://jimmartin.netlify.app/search/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
