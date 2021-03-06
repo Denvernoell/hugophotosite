@@ -12,7 +12,6 @@ description: "this is meta description"
 # type
 type: "about"
 ---
-Jim Martin’s career encompasses a unique and important array of accomplishments and interests which significantly furthered the effectiveness of public agency management.
 
 Jim Martin’s career encompasses a unique and important array of accomplishments and interests which significantly furthered the effectiveness of public agency management.
 

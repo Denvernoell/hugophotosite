@@ -5,7 +5,7 @@ baseURL = "//jimmartin.netlify.app"
 languageCode = "en-us"
 title = "Jim Martin Photos"
 theme = "liva-hugo"
-summaryLength = "10"
+summaryLength = "24"
 paginate = 15
 disqusShortname = ""
 
@@ -47,7 +47,7 @@ disqusShortname = ""
 
   # main menu
   [[menu.main]]
-  name = "About"
+  name = "About Jim Martin"
   URL = "about"
   weight = 1
 
@@ -57,8 +57,8 @@ disqusShortname = ""
   weight = 2
 
   [[menu.main]]
-  name = "About Jim Martin"
-  URL = "contact"
+  name = "Home"
+  URL = "index"
   weight = 0
 
   # footer menu
