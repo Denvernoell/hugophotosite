@@ -4,11 +4,10 @@
     {{ with .Site.GetPage "/about" }}
     <h4 class="widget-title">{{ .Title | markdownify }}</h4>
     {{ if .Params.Image }}
-    <img src="{{ .Params.Image | absURL }}" alt=""
-      class="img-fluid author-thumb-sm d-block mx-auto rounded-circle mb-4">
+    <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid">
     {{ end }}
     <p>{{ .Summary }}</p>
-    <a href="{{ .Permalink }}" class="btn btn-outline-primary">Know More</a>
+    <a href="{{ .Permalink }}" class="btn btn-outline-primary">Learn More</a>
     {{ end }}
   </div>
 
@@ -46,7 +45,7 @@
     {{- end }}
   </div> -->
 
-  
+
   <!-- social -->
   <!-- <div class="widget">
     <h4 class="widget-title">Social</h4>

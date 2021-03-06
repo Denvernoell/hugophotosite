@@ -3,7 +3,7 @@
 baseURL = "//jimmartin.netlify.app"
 #baseURL = "/"
 languageCode = "en-us"
-title = "James Martin Photos"
+title = "Jim Martin Photos"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 15
@@ -81,18 +81,18 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 #logo = "images/computer.svg"
-logo = "img/camera.svg"
+logo = "img/images/camera.svg"
 home = "Home"
 
 # Meta data
 description = "Life through the lens of Jim Martin"
-author = "Denver Noell"
+author = "Akel Engineering Group"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # Contact Information
 mobile = ""
 email = "dnoell@akeleng.com"
-location = "Visalia, California"
+location = "Fresno, California"
 # copyright
 copyright = "copyright &copy; Life through the lens of Jim Martin. 2020 All Rights Reserved | Design by ThemeFisher | logos by tinyicon "
 

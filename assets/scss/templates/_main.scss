@@ -243,7 +243,8 @@
       position: relative;
       padding-left: 20px;
       margin-bottom: 15px;
-      list-style-type: none;
+      list-style-type: none; 
+      text-align: left;
 
       &::before {
         position: absolute;
