@@ -8,6 +8,7 @@ for decade in range(10, 70, 10):
         # print(f)
         try:
             os.rename(f, f.replace('#', ''))
+            print(f.replace('#', ''))
         except:
             pass
         # if f.find('#') != -1:
