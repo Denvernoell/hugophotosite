@@ -7,7 +7,7 @@ for decade in range(10, 70, 10):
     for f in os.listdir(f"./{decade}/"):
         # print(f)
         try:
-            os.replace(f, f.replace('#', ''))
+            os.rename(f, f.replace('#', ''))
         except:
             pass
         # if f.find('#') != -1:
