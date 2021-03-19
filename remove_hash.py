@@ -5,10 +5,12 @@ import os
 os.chdir('static/img')
 for decade in range(10, 70, 10):
     for f in os.listdir(f"./{decade}/"):
-        # print(f)
+
         try:
-            os.rename(f, f.replace('#', ''))
-            print(f.replace('#', ''))
+            # os.join(decade,f)
+            print(os.join(decade, f.replace('#', '')))
+            os.rename(os.join(decade, f), os.join(decade, f.replace('#', '')))
+
         except:
             pass
         # if f.find('#') != -1:
