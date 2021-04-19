@@ -3,7 +3,7 @@ import shutil
 
 # print(os.getcwd())
 
-num_split = 100
+num_split = 50
 
 os.chdir('static/img')
 
