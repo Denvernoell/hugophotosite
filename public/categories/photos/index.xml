@@ -1,76 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Photos on Jim Martin Photos</title>
-    <link>//jimmartin.netlify.app/categories/photos/</link>
-    <description>Recent content in Photos on Jim Martin Photos</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Dec 2020 10:40:29 -0800</lastBuildDate>
-    
-	<atom:link href="//jimmartin.netlify.app/categories/photos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>1920s</title>
-      <link>//jimmartin.netlify.app/blog/1920s/</link>
-      <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
-      
-      <guid>//jimmartin.netlify.app/blog/1920s/</guid>
-      <description>Photos from throughout the 1920s 1.261Feather R Tramway PG&amp;amp;E22-01.JPG
-2.111 Co Road Construction 25-01.JPG
-2.</description>
-    </item>
-    
-    <item>
-      <title>1930s</title>
-      <link>//jimmartin.netlify.app/blog/1930s/</link>
-      <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
-      
-      <guid>//jimmartin.netlify.app/blog/1930s/</guid>
-      <description>Photos from throughout the 1930s 1.161 Sdelaware. Balboa Viaduct San Diego Ca 39-01.JPG
-1.161 Sdelaware. Coronada San Diego California 39-01.</description>
-    </item>
-    
-    <item>
-      <title>1940s</title>
-      <link>//jimmartin.netlify.app/blog/1940s/</link>
-      <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
-      
-      <guid>//jimmartin.netlify.app/blog/1940s/</guid>
-      <description>Photos from throughout the 1940s 1.101 Fresno Van Ness &amp;amp; Mariposa 40-01.JPG
-1.101 Tulare W.O Van Ness Fresno 40-01.</description>
-    </item>
-    
-    <item>
-      <title>1950s</title>
-      <link>//jimmartin.netlify.app/blog/1950s/</link>
-      <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
-      
-      <guid>//jimmartin.netlify.app/blog/1950s/</guid>
-      <description>Photos from throughout the 1950s 1.161 Prr Mu Car Philadelphia Pennsylvania 59-01.JPG
-1.165 Sf Muni 114 112 Presidio Carhouse 52-01.</description>
-    </item>
-    
-    <item>
-      <title>1960s</title>
-      <link>//jimmartin.netlify.app/blog/1960s/</link>
-      <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
-      
-      <guid>//jimmartin.netlify.app/blog/1960s/</guid>
-      <description>Photos from throughout the 1960s 1.174 W.S.L Co Heilser 3 Tuolumne 60-01.JPG
-1.174 W.S.L Co Heilser 3 Tuolumne 63-01.</description>
-    </item>
-    
-    <item>
-      <title>1910s</title>
-      <link>//jimmartin.netlify.app/blog/1910s/</link>
-      <pubDate>Tue, 29 Dec 2020 10:40:14 -0800</pubDate>
-      
-      <guid>//jimmartin.netlify.app/blog/1910s/</guid>
-      <description>Photos from throughout the 1910s 2.111 Old Pw Hwy Supt Rig 14-01.JPG
-2.241 Old Public Works Home Drive Oil Tank 14-01.</description>
-    </item>
-    
-  </channel>
-</rss>

@@ -3,62 +3,177 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//jimmartin.netlify.app/blog/1920s/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <loc>//jimmartin.netlify.app/tags/1910s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
-    <loc>//jimmartin.netlify.app/blog/1930s/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <loc>//jimmartin.netlify.app/categories/1910s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
-    <loc>//jimmartin.netlify.app/blog/1940s/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <loc>//jimmartin.netlify.app/blog-split/1910-1-10/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
-    <loc>//jimmartin.netlify.app/blog/1950s/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <loc>//jimmartin.netlify.app/tags/1920s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
-    <loc>//jimmartin.netlify.app/blog/1960s/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <loc>//jimmartin.netlify.app/categories/1920s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
-    <loc>//jimmartin.netlify.app/tags/article/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <loc>//jimmartin.netlify.app/blog-split/1920-1-68/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/tags/1930s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/categories/1930s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1930-1-100/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1930-101-200/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1930-201-300/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1930-301-331/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/tags/1940s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/categories/1940s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1940-1-100/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1940-101-200/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1940-201-300/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1940-301-307/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/tags/1950s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/categories/1950s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1950-1-100/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1950-101-200/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1950-201-300/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1950-301-400/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1950-401-474/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/tags/1960s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/categories/1960s/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1960-1-100/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1960-101-200/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1960-201-300/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//jimmartin.netlify.app/blog-split/1960-301-314/</loc>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
     <loc>//jimmartin.netlify.app/blog/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
     <loc>//jimmartin.netlify.app/categories/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
     <loc>//jimmartin.netlify.app/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//jimmartin.netlify.app/categories/photos/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
+    <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   
   <url>
     <loc>//jimmartin.netlify.app/tags/</loc>
-    <lastmod>2020-12-29T10:40:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//jimmartin.netlify.app/blog/1910s/</loc>
     <lastmod>2020-12-29T10:40:14-08:00</lastmod>
   </url>
   

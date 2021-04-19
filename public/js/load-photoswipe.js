@@ -42,6 +42,8 @@ $( document ).ready(function() {
 				src		: $src,
 				w		: 800, // temp default size
 				h 		: 600, // temp default size
+				// w		: 1000, // temp default size
+				// h 		: 800, // temp default size
 				title 	: $title,
 				msrc	: $msrc
 			};

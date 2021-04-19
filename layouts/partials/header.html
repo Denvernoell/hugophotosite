@@ -32,9 +32,9 @@
           class="img-fluid" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
       </a>
       <!-- Name -->
-      <!-- <a href="{{ .Site.BaseURL }}">
+      <a href="{{ .Site.BaseURL }}">
         <h4 style="color:gray"> {{.Site.Title}}</h4>
-      </a> -->
+      </a>
       <ul class="navbar-nav">
         {{ range .Site.Menus.main }}
         {{ if .HasChildren }}

@@ -6,17 +6,62 @@
     <description>Recent content in Categories on Jim Martin Photos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Dec 2020 10:40:29 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Dec 2020 10:40:14 -0800</lastBuildDate>
     
 	<atom:link href="//jimmartin.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Photos</title>
-      <link>//jimmartin.netlify.app/categories/photos/</link>
-      <pubDate>Tue, 29 Dec 2020 10:40:29 -0800</pubDate>
+      <title>1910s</title>
+      <link>//jimmartin.netlify.app/categories/1910s/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:14 -0800</pubDate>
       
-      <guid>//jimmartin.netlify.app/categories/photos/</guid>
+      <guid>//jimmartin.netlify.app/categories/1910s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1920s</title>
+      <link>//jimmartin.netlify.app/categories/1920s/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:14 -0800</pubDate>
+      
+      <guid>//jimmartin.netlify.app/categories/1920s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1930s</title>
+      <link>//jimmartin.netlify.app/categories/1930s/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:14 -0800</pubDate>
+      
+      <guid>//jimmartin.netlify.app/categories/1930s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1940s</title>
+      <link>//jimmartin.netlify.app/categories/1940s/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:14 -0800</pubDate>
+      
+      <guid>//jimmartin.netlify.app/categories/1940s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1950s</title>
+      <link>//jimmartin.netlify.app/categories/1950s/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:14 -0800</pubDate>
+      
+      <guid>//jimmartin.netlify.app/categories/1950s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1960s</title>
+      <link>//jimmartin.netlify.app/categories/1960s/</link>
+      <pubDate>Tue, 29 Dec 2020 10:40:14 -0800</pubDate>
+      
+      <guid>//jimmartin.netlify.app/categories/1960s/</guid>
       <description></description>
     </item>
     
